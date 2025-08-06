@@ -1,0 +1,24 @@
+{
+  "originHash" : "33148c5c25100c60b13be044e37d7efb9c7604be621bebf36fa00a608f124890",
+  "pins" : [
+    {
+      "identity" : "tocropviewcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TimOliver/TOCropViewController",
+      "state" : {
+        "revision" : "a634cb7cdfd580006e79a6e74e64417fe9e9783b",
+        "version" : "2.7.4"
+      }
+    },
+    {
+      "identity" : "wescan",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/WeTransfer/WeScan",
+      "state" : {
+        "revision" : "5eee784d8233bc209e8fc38980fd847293c96ebc",
+        "version" : "3.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
